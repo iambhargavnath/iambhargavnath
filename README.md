@@ -1,7 +1,7 @@
 ![logo](https://github.com/iambhargavnath/iambhargavnath/blob/main/android_developer.jpeg)
 <h1 align="center">Hi 👋, I'm Bhargav Nath</h1>
 <h3 align="center">Software Developer from Assam, India</h3>
-<img align ="right" alt="hell" src="https://github.com/iambhargavnath/iambhargavnath/blob/main/coding.gif"  width="100">
+<img align ="right" alt="hell" src="https://github.com/iambhargavnath/iambhargavnath/blob/main/coding.gif"  width="auto">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iambhargavnath&label=Profile%20views&color=0e75b6&style=flat" alt="iambhargavnath"/></p>
 
