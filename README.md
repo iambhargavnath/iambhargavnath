@@ -5,9 +5,7 @@
 
 - 📫 Reach me at **iambhargavnath@gmail.com**
 
-- 👨‍💻 Know about my projects and experiences [Linkedin Profile](https://www.linkedin.com/in/iambhargavnath/)
-
-- 📄 Khow about me [Curriculum Vitae](https://media.licdn.com/dms/image/D4D2DAQGrIEuwSC95gw/profile-treasury-image-shrink_1280_1280/0/1720973750066?e=1721757600&v=beta&t=HxgMYNHY4_DWrJX5rcO00j1cZc6K4XiFpiP1kvl9vzc)
+- 📄 Know about my projects and experiences [Curriculum Vitae](https://media.licdn.com/dms/image/D4D2DAQGrIEuwSC95gw/profile-treasury-image-shrink_1280_1280/0/1720973750066?e=1721757600&v=beta&t=HxgMYNHY4_DWrJX5rcO00j1cZc6K4XiFpiP1kvl9vzc)
 
 - ⚡ Hobbies: **Cricket, Writing, Astrology, Movies, Music**
 
