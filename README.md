@@ -2,7 +2,7 @@
 <h3 align="center">Software Developer from Assam, India</h3>
 <img align ="right" alt="hell" src="https://github.com/iambhargavnath/iambhargavnath/blob/main/coding.gif" width="400">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iambhargavnath&label=Profile%20views&color=0e75b6&style=flat" alt="iambhargavnath"/></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iambhargavnath&label=Profile%20views&color=0e75b6&style=flat" alt="iambhargavnath" height="100"/></p>
 
 - 💻 Specialized in Android Development, Web Development and Internet of Things
 
