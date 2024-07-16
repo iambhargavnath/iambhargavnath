@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Bhargav Nath</h1>
-<h3 align="center">A Software Developer from Assam, India</h3>
+<h3 align="center">Software Developer from Assam, India</h3>
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/iambhargavnath/](https://www.linkedin.com/in/iambhargavnath/)
+- 💻 Specialized in Android Development, Web Development and Internet of Things
 
-- 📝 I write articles on [https://bhargavnath.blogspot.com](https://bhargavnath.blogspot.com)
+- 📫 Reach me at **iambhargavnath@gmail.com**
 
-- 📫 How to reach me **iambhargavnath@gmail.com**
+- 👨‍💻 Know about my projects and experiences [Linkedin Profile](https://www.linkedin.com/in/iambhargavnath/)
 
-- 📄 Know about my experiences [https://media.licdn.com/dms/image/D4D2DAQGrIEuwSC95gw/profile-treasury-image-shrink_1280_1280/0/1720973750066?e=1721757600&v=beta&t=HxgMYNHY4_DWrJX5rcO00j1cZc6K4XiFpiP1kvl9vzc](https://media.licdn.com/dms/image/D4D2DAQGrIEuwSC95gw/profile-treasury-image-shrink_1280_1280/0/1720973750066?e=1721757600&v=beta&t=HxgMYNHY4_DWrJX5rcO00j1cZc6K4XiFpiP1kvl9vzc)
+- 📄 Khow about me [Curriculum Vitae](https://media.licdn.com/dms/image/D4D2DAQGrIEuwSC95gw/profile-treasury-image-shrink_1280_1280/0/1720973750066?e=1721757600&v=beta&t=HxgMYNHY4_DWrJX5rcO00j1cZc6K4XiFpiP1kvl9vzc)
 
-- ⚡ Hobbies **Cricket, Writing, Astrology, Movies, Music**
+- ⚡ Hobbies: **Cricket, Writing, Astrology, Movies, Music**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
