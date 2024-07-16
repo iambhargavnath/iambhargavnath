@@ -17,6 +17,7 @@
 <a href="https://linkedin.com/in/iambhargavnath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iambhargavnath" height="30" width="40" /></a>
 <a href="https://fb.com/iambhargavnath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="iambhargavnath" height="30" width="40" /></a>
 <a href="https://instagram.com/iambhargavnath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iambhargavnath" height="30" width="40" /></a>
+<a href="https://bhargavnath.blogspot.com" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/cWG9-bk2_zLdKsN9vsYEdbCReVfzgXU6FeHUmLI8a24FoZ05TpOLYXInCQ278FTwCw" alt="iambhargavnath" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
