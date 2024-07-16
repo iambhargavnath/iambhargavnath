@@ -1,3 +1,4 @@
+![logo](https://github.com/iambhargavnath/iambhargavnath/blob/main/animation.gif)
 <h1 align="center">Hi 👋, I'm Bhargav Nath</h1>
 <h3 align="center">Software Developer from Assam, India</h3>
 
