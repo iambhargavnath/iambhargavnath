@@ -3,7 +3,7 @@
 <h3 align="center">Software Developer from Assam, India</h3>
 <img align ="right" alt="hell" src="https://github.com/iambhargavnath/iambhargavnath/blob/main/coding.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iambhargavnath&label=Profile%20views&color=0e75b6&style=flat" alt="iambhargavnath"/></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iambhargavnath&label=Profile%20views&color=0e75b6&style=flat" alt="iambhargavnath" width="100"/></p>
 
 - 💻 Specialized in Android Development, Web Development and Internet of Things
 
@@ -11,7 +11,7 @@
 
 - 📄 Know about my projects and experiences in my [Curriculum Vitae](https://media.licdn.com/dms/image/D4D2DAQGrIEuwSC95gw/profile-treasury-image-shrink_1280_1280/0/1720973750066?e=1721757600&v=beta&t=HxgMYNHY4_DWrJX5rcO00j1cZc6K4XiFpiP1kvl9vzc)
 
-- ⚡ I have interest in **Cricket, Writing, Astrology, Movies and Music**
+- ⚡ I have interest in **Cricket, Writing, Astrology, Movies** and **Music**
 
 <h3 align="left">Find me at</h3>
 <p align="left">
