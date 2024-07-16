@@ -11,7 +11,7 @@
 
 - 📄 Know about my projects and experiences in my [Curriculum Vitae](https://media.licdn.com/dms/image/D4D2DAQGrIEuwSC95gw/profile-treasury-image-shrink_1280_1280/0/1720973750066?e=1721757600&v=beta&t=HxgMYNHY4_DWrJX5rcO00j1cZc6K4XiFpiP1kvl9vzc)
 
-- ⚡ Hobbies: **Cricket, Writing, Astrology, Movies, Music**
+- ⚡ I have interest in **Cricket, Writing, Astrology, Movies and Music**
 
 <h3 align="left">Find me at</h3>
 <p align="left">
