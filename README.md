@@ -9,7 +9,7 @@
 
 - 📫 Reach me at **iambhargavnath@gmail.com**
 
-- 📄 Know about my projects and experiences in my [Curriculum Vitae](https://media.licdn.com/dms/image/D4D2DAQEmzDhGlI2DsA/profile-treasury-image-shrink_1280_1280/0/1721495519929?e=1722103200&v=beta&t=rSTBgtbXaA7omLmfSB41G7b0jK2ob6khzlpparFoP9Q)
+- 📄 Know about my projects and experiences in my [Curriculum Vitae](https://media.licdn.com/dms/image/D4D2DAQE1RcT0S23pKw/profile-treasury-image-shrink_1280_1280/0/1721497676819?e=1722103200&v=beta&t=c7NrgDWnH_pY8QU-JEBEignuotmm3EEfteFtMCkZCi8)
 
 - ⚡ I have interest in **Cricket, Writing, Astrology, Movies** and **Music**
 
