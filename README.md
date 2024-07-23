@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iambhargavnath&label=Profile%20views&color=0e75b6&style=flat" alt="iambhargavnath"/></p>
 
-- 💻 Specialized in Android, Web and Internet of Things
+- 💻 Specialized in Android, Web and IoT
 
 - 📫 Reach me at **iambhargavnath@gmail.com**
 
