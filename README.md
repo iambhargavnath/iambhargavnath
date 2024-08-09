@@ -1,4 +1,4 @@
-![logo](https://github.com/iambhargavnath/iambhargavnath/blob/main/android_developer.jpeg)
+![image](https://github.com/user-attachments/assets/0bd95139-8f75-47ca-a5eb-a015fb96ed2a)![logo](https://github.com/iambhargavnath/iambhargavnath/blob/main/android_developer.jpeg)
 <h1 align="center">Hi 👋, I'm Bhargav Nath</h1>
 <h3 align="center">Software Developer from Assam, India</h3>
 <img align ="right" alt="hell" src="https://github.com/iambhargavnath/iambhargavnath/blob/main/coding.gif"  height="300">
@@ -9,7 +9,7 @@
 
 - 📫 Reach me at **iambhargavnath@gmail.com**
 
-- 📄 Know about my projects and experiences in my [Curriculum Vitae](https://media.licdn.com/dms/image/D4D2DAQGunNNhW3KNaA/profile-treasury-image-shrink_1280_1280/0/1722101414022?e=1722708000&v=beta&t=Ua1g74nEnvKStQ_zNLkmjO3rTMa4ZGUHqm3_N45UN1c)
+- 📄 Know about my projects and experiences in my [Curriculum Vitae](https://media.licdn.com/dms/image/D4D2DAQENGLK7Ttv1iA/profile-treasury-image-shrink_1280_1280/0/1723197496450?e=1723806000&v=beta&t=7yBim0Uu-BajA9GqQ0zxhuiSdBLLBOQPmPC1BcC3bxA)
 
 
 - ⚡ I have interest in **Cricket, Writing, Astrology, Movies** and **Music**
