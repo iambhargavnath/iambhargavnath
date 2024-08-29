@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/0bd95139-8f75-47ca-a5eb-a015fb96ed2a)![logo](https://github.com/iambhargavnath/iambhargavnath/blob/main/android_developer.jpeg)
+![logo](https://github.com/iambhargavnath/iambhargavnath/blob/main/android_developer.jpeg)
 <h1 align="center">Hi 👋, I'm Bhargav Nath</h1>
 <h3 align="center">Software Developer from Assam, India</h3>
 <img align ="right" alt="hell" src="https://github.com/iambhargavnath/iambhargavnath/blob/main/coding.gif"  height="300">
