@@ -9,7 +9,7 @@
 
 - 📫 Reach me at **iambhargavnath@gmail.com**
 
-- 📄 Know about my projects and experiences in my [Curriculum Vitae](https://media.licdn.com/dms/image/D4D2DAQENGLK7Ttv1iA/profile-treasury-image-shrink_1280_1280/0/1723197496450?e=1723806000&v=beta&t=7yBim0Uu-BajA9GqQ0zxhuiSdBLLBOQPmPC1BcC3bxA)
+- 📄 Know about my projects and experiences in my [Curriculum Vitae](https://private-user-images.githubusercontent.com/43431170/356553256-0bd95139-8f75-47ca-a5eb-a015fb96ed2a.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjQ5MzM5NDIsIm5iZiI6MTcyNDkzMzY0MiwicGF0aCI6Ii80MzQzMTE3MC8zNTY1NTMyNTYtMGJkOTUxMzktOGY3NS00N2NhLWE1ZWItYTAxNWZiOTZlZDJhLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODI5VDEyMTQwMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTczOTMwY2QyZGY3NDIyMmFjYjVhNGQ0OGU2NzAxMWU3YjFiNmVjODYwZDgxMWExMWE1Y2Y5MzlhMjRiMjI1NTEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.FHrkVqcBo7NfavFdD_1kuRI1vboJwM7Y1kJXonj8peo)
 
 
 - ⚡ I have interest in **Cricket, Writing, Astrology, Movies** and **Music**
