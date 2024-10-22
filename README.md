@@ -9,9 +9,6 @@
 
 - 📫 Reach me at **iambhargavnath@gmail.com**
 
-- 📄 Know about my projects and experiences in my [Curriculum Vitae](https://media.licdn.com/dms/image/v2/D4D2DAQElhORHkHH40w/profile-treasury-image-shrink_1280_1280/profile-treasury-image-shrink_1280_1280/0/1725643445004?e=1726250400&v=beta&t=OVCaZWAdaelJk9GZoSY_uBCfS8-lsGW3qcVEePr-i9o)
-
-
 - ⚡ I have interest in **Cricket, Writing, Astrology, Movies** and **Music**
 
 <h3 align="left">Find me at</h3>
