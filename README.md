@@ -9,7 +9,7 @@
 
 - 📫 Reach me at **iambhargavnath@gmail.com**
 
-- ⚡ I have interest in **Cricket, Writing, Astrology, Movies** and **Music**
+- ⚡ I have interest in **Cricket, Writing, Astronomy, Movies** and **Music**
 
 <h3 align="left">Find me at</h3>
 <p align="left">
