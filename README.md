@@ -25,4 +25,4 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iambhargavnath&show_icons=true&locale=en&layout=compact" alt="iambhargavnath" width="480"/>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iambhargavnath" alt="iambhargavnath" width="480"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=iambhargavnath&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&count_private=true" alt="iambhargavnath" width="480"/>
