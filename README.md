@@ -25,4 +25,4 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iambhargavnath&langs_count=10&layout=compact&theme=buefy&hide_border=true" alt="iambhargavnath" width="480"/>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=iambhargavnath&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&count_private=false" alt="iambhargavnath" width="480"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=iambhargavnath&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&count_private=true" alt="iambhargavnath" width="480"/>
