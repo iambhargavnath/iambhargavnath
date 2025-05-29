@@ -5,12 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iambhargavnath&label=Profile%20views&color=0e75b6&style=flat" alt="iambhargavnath"/></p>
 
-- 💻 Specialized in **Android Development**
-
-- 📫 Reach me at **iambhargavnath@gmail.com**
-
-- ⚡ I have interest in **Cricket, Writing, Physics, Movies** and **Music**
-
 <h3 align="left">Find me at</h3>
 <p align="left">
 <a href="https://twitter.com/iambhargavnath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iambhargavnath" height="30" width="40" /></a>
